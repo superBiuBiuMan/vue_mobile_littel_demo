@@ -3,9 +3,9 @@
 * 为了练习,就没有使用自动转换rem的功能,想了解的可以看看这几位博主的
   * [博主1](https://www.jianshu.com/p/67a29794b98b)
   * [博主2](https://blog.csdn.net/weixin_35773751/article/details/120894238)
-* 想看源码的可以到github上下载(后台也打包好了)
-  * https://github.com/superBiuBiuMan/vue_mobile_littel_demo
-  * 
+* 想看源码的可以到github或者gitee上下载(后台也打包好了)
+  * [github地址](https://github.com/superBiuBiuMan/vue_mobile_littel_demo)
+  * [gitee地址](https://gitee.com/superBiuBiu/vue_mobile_littel_demo)
 
 ### 项目遇到的问题记录
 
