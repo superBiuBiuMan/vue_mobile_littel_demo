@@ -1,0 +1,3 @@
+1.记得在config文件夹修改client_id和secret_id
+2.记得在\server\routers\login.js中
+修改177行的重定向网站
